@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Mamani",
+    "role": "Contratista",
+    "comment": "Excelente calidad de productos y muy buen servicio. Las tuberías de Doña Maria son las mejores del mercado.",
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "name": "María García",
+    "role": "Propietaria de tienda",
+    "comment": "He comprado muchas veces en esta tienda. Siempre tienen lo que necesito con precios justos.",
+    "rating": 5
+  },
+  {
+    "id": 3,
+    "name": "Roberto López",
+    "role": "Plomero profesional",
+    "comment": "Recomiendo Doña Maria a todos mis clientes. Productos confiables y atención personalizada.",
+    "rating": 5
+  },
+  {
+    "id": 4,
+    "name": "Ana Morales",
+    "role": "Ingeniera Civil",
+    "comment": "Para proyectos grandes siempre recurro a Doña Maria. Son serios y responsables.",
+    "rating": 5
+  },
+  {
+    "id": 5,
+    "name": "Carlos Fernández",
+    "role": "Electricista instalador",
+    "comment": "La mejor opción para comprar tuberías en la ciudad. Precios competitivos y garantía de calidad.",
+    "rating": 5
+  }
+]

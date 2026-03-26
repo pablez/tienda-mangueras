@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Tubería PVC 1/2\"",
+    "description": "Tubería de PVC de alta resistencia, ideal para sistemas de agua potable. Material duradero y fácil de instalar.",
+    "category": "PVC",
+    "image": "/images/products/tuberia-pvc-1-2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tubería PVC 3/4\"",
+    "description": "Tubería PVC de 3/4 pulgadas, perfecta para instalaciones residenciales y comerciales.",
+    "category": "PVC",
+    "image": "/images/products/tuberia-pvc-3-4.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Tubería PVC 1\"",
+    "description": "Tubería de gran diámetro, ideal para sistemas mayores y aplicaciones industriales.",
+    "category": "PVC",
+    "image": "/images/products/tuberia-pvc-1.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Tubería Galvanizada 1/2\"",
+    "description": "Tubería galvanizada resistente a la corrosión, excelente para uso exterior y ambientes húmedos.",
+    "category": "Galvanizada",
+    "image": "/images/products/tuberia-galvanizada-1-2.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Tubería Galvanizada 3/4\"",
+    "description": "Tubería galvanizada de 3/4 pulgadas con protección anti-corrosión de larga duración.",
+    "category": "Galvanizada",
+    "image": "/images/products/tuberia-galvanizada-3-4.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tubería Galvanizada 1\"",
+    "description": "Tubería galvanizada de 1 pulgada, robusta y confiable para instalaciones de gran capacidad.",
+    "category": "Galvanizada",
+    "image": "/images/products/tuberia-galvanizada-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Codo 90° PVC 1/2\"",
+    "description": "Accesorio de codo en ángulo recto para conexiones en sistemas de tuberías PVC.",
+    "category": "Accesorios",
+    "image": "/images/products/codo-90-pvc.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Tee de Unión PVC 3/4\"",
+    "description": "Pieza en forma de T para conectar tres tramos de tubería en ángulo recto.",
+    "category": "Accesorios",
+    "image": "/images/products/tee-union-pvc.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Adaptador Rosca 1/2\" - 3/4\"",
+    "description": "Adaptador que permite conexión entre tuberías de diferentes diámetros.",
+    "category": "Accesorios",
+    "image": "/images/products/adaptador-rosca.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Union Deslizable PVC 1\"",
+    "description": "Unión deslizable para facilitar montaje y desmontaje de tuberías sin necesidad de desconectar.",
+    "category": "Accesorios",
+    "image": "/images/products/union-deslizable.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Válvula de Corte 3/4\"",
+    "description": "Válvula de control de flujo para PVC y galvanizado, con manija de fácil operación.",
+    "category": "Válvulas",
+    "image": "/images/products/valvula-corte.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Válvula Check 1\"",
+    "description": "Válvula anti-retorno para prevenir flujo inverso en sistemas de bombeo.",
+    "category": "Válvulas",
+    "image": "/images/products/valvula-check.jpg"
+  }
+]
